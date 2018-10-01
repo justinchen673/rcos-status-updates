@@ -1,22 +1,22 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+For the first week, I finally installed the shuttle tracker. The setup actually
+took quite a while (decided to dual boot my laptop with Ubuntu in order to make
+the setup easier), and after I set it up I helped others with the setup.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+Our project has different features that groups of people will work on. I'm
+working on the scheduling system, which should parse an excel file and be able
+to display relevant information based on where on the map you click. I'll try
+to familiarize myself with Go (the language) for the first week.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+We don't exactly know how we're going to approach this, which we'll discuss at
+next meeting, and since I didn't get any of their contact information (and I
+don't know their names) I'm just going to do something independently first.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+A goal is to obtain all contact information and establish a group chat.
