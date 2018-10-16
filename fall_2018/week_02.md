@@ -1,7 +1,7 @@
 ## Last Week's Accomplishments
 
 For the second week, I looked at the Go script that parses the Excel file as a
-refernece for how to
+refernece for how to load it into the database.
 
 ## This Week's Plan
 
